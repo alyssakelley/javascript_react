@@ -13,6 +13,8 @@ Below the summarized data cards, there will be a chart further displaying the da
 
 Above the chart, you will see a toggle bar so you can view a graph representation of the data specific to a country. Once you select a specific country, the chart will change from a line char to a bar chart. The bar chart will show the infected number of people, the numebr of people that have recovered, and the number of deaths. You can hover over each bar in the chart to see a numerical representation of that number. You can view as many countries bar chart's as you wish, or go back to view the global line graph. 
 
+You can view a demonstration of this webapge by viewing the screen recording titled "demonstration.mov" in this repository.
+
 # Technologies used to create this application:
 
 This webpage was created using the programming language JavaScript with some custom css styling. It was mainly derived using the React.js framework to display the HTML to views and handle user interaction, Chart.js to create the line and bar charts, Material UI that allowed the card displays at the beginning of the page, etc. 
